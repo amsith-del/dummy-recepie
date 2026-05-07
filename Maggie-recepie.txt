@@ -1,0 +1,15 @@
+# 🍜 Maggi Recipe
+
+## Ingredients
+- Maggi noodles
+- Water
+- Tastemaker
+- Vegetables
+- Salt
+
+## Steps
+1. Boil water in a pan
+2. Add Maggi noodles
+3. Add tastemaker and vegetables
+4. Cook for 2 minutes
+5. Serve hot
